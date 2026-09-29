@@ -1,0 +1,6 @@
+{
+  "name": "Sher Dental Clinic Management System",
+  "description": "Comprehensive practice management system for Sher Dental Clinic featuring team management, patient records, appointments, itemized billing in PKR, expense tracking, and inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
